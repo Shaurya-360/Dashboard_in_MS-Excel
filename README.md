@@ -1,4 +1,3 @@
-# Projects_by_SS
 # Dashboard preparation using MS Excel
 
 # Objective: 
